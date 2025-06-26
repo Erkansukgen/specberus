@@ -19,10 +19,10 @@
     "jsdom": "22.1.0",
     "metaviewport-parser": "0.3.0",
     "morgan": "1.10.0",
-    "node-w3capi": "2.1.0",
+    "node-w3capi": "2.2.0",
     "promise": "8.3.0",
-    "puppeteer": "20.9.0",
-    "socket.io": "4.7.0",
+    "puppeteer": "22.13.1",
+    "socket.io": "4.8.0",
     "superagent": "8.0.0"
   },
   "devDependencies": {
